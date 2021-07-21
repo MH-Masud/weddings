@@ -1,0 +1,1 @@
+[07-Mar-2021 06:03:59 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/hmwesjmy/public_html/laravel/vendor/composer/platform_check.php on line 24
